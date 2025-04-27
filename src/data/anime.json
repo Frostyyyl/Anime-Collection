@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "A Silent Voice",
+    "image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+    "type": "Movie",
+    "score": 10,
+    "status": "Completed",
+    "episodes": null
+  },
+  {
+    "id": 1,
+    "title": "My Hero Academia",
+    "image": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "type": "Series",
+    "score": 10,
+    "status": "Completed",
+    "episodes": 13
+  },
+  {
+    "id": 2,
+    "title": "Naruto Shippuden",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+    "type": "Series",
+    "score": 8,
+    "status": "Completed",
+    "episodes": 500
+  },
+  {
+    "id": 3,
+    "title": "Blue Lock Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1584/144860.jpg",
+    "type": "Series",
+    "score": null,
+    "status": "Plan to watch",
+    "episodes": 14
+  },
+  {
+    "id": 4,
+    "title": "Dandadan",
+    "image": "https://cdn.myanimelist.net/images/anime/1584/143719.jpg",
+    "type": "Series",
+    "score": null,
+    "status": "Watching",
+    "episodes": 12
+  }
+]
