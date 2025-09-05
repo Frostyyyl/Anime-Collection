@@ -13,7 +13,7 @@ function AnimeCard({ anime }: { anime: Anime }) {
   return (
     <>
       <div className="pb-4 anime-card-hover">
-        <div className="card bg-secondary text-white border-0 shadow">
+        <div className="card bg-dark text-white border-0 shadow">
           <div className="row g-0 " onClick={handleClick}>
             <div className="col-md-2 ">
               <img

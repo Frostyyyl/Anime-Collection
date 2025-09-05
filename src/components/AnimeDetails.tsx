@@ -23,7 +23,7 @@ function Dropdown({
     <div className="dropdown">
       <button
         className={`badge bg-primary rounded-pill border-0 dropdown-toggle ${
-          disabled ? 'bg-secondary' : ''
+          disabled ? 'bg-dark' : ''
         }`}
         type="button"
         data-bs-toggle="dropdown"
@@ -68,7 +68,7 @@ export default function AnimeDetails({ anime }: { anime: Anime }) {
       <ul className="list-group">
         <li className="list-group-item d-flex justify-content-between align-items-center">
           Type
-          <span className="badge bg-secondary rounded-pill">{anime.type}</span>
+          <span className="badge bg-dark rounded-pill">{anime.type}</span>
         </li>
         {anime.type === 'Series' && (
           <li className="list-group-item d-flex justify-content-between align-items-center">
